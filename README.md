@@ -38,8 +38,10 @@
 ### 🌐 Connect With Me
 
 - 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/)  
-- 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadheshkumar00)  
-- 📫 **Email:** awadhesh.dev@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadhesh-kumar-615088265/)
+- [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/awadhesh8994)
+  
+- 📫 **Email:** awadhesh23th@gmail.com 
 
 ---
 
