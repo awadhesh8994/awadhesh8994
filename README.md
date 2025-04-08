@@ -21,7 +21,7 @@
 |--------|-------------|-----------|
 | 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/) |
 | 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
-| | 🧾 **QR Code Generator** | Generate custom QR codes with a sleek UI, built using React.js and Tailwind CSS | [qrcode-generatorr.vercel.app](https://qrcode-generatorr.vercel.app) |
+| 🧾 **QR Code Generator** | Generate custom QR codes with a sleek UI, built using React.js and Tailwind CSS | [qrcode-generatorr.vercel.app](https://qrcode-generatorr.vercel.app) |
 
 
 ---
