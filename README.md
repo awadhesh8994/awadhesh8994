@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Awadhesh Kumar</h1>
-<h3 align="center">🚀 Full-Stack Developer | 👨‍🎓 B.Tech CSE | ⚖️ Future Tech-Lawyer</h3>
+<h3 align="center">🚀 Full-Stack Developer | 👨‍🎓 B.Tech CSE </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=440&lines=Building+cool+projects+with+MERN+Stack;Tech+that+helps+students+learn+better;Blending+Law+%2B+Code+%3D+Future+Ready!" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app]((https://awadhesh-online.vercel.app/)) |
+| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/) |
 | 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
 
 ---
@@ -30,7 +30,6 @@
 ### 🧠 About Me
 - 🎓 Pursuing B.Tech in CSE @ Goel Institute of Tech & Management, Lucknow
 - 🤝 Always ready to collaborate on tech-for-good projects
-- ⚡ Fun fact: I’m mixing Law & Tech for a unique future career!
 
 ---
 
