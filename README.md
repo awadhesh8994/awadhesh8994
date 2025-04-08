@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 👨‍🎓 B.Tech CSE | ⚖️ Future Tech-Lawyer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=440&lines=Building+cool+projects+with+MERN+Stack;Tech+that+helps+students+learn+better;Codeing+%3D+Future+Ready!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=440&lines=Building+cool+projects+with+MERN+Stack;Tech+that+helps+students+learn+better;Blending+Law+%2B+Code+%3D+Future+Ready!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,19 @@
 ### 🔭 Currently Working On
 - 📘 **Second-Hand Book Marketplace** – Book swapping, AI pricing, Maps-based search
 - 📊 **CGPA Calculator** – GPA prediction, result graphs, export as PDF
+- 🌐 **Personal Portfolio Website** – Showcasing my skills, projects, and resume
+- 🔗 **URL Shortener Web App** – Create and manage short links with click tracking
+
+---
+
+### 🌟 📌 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app](https://awadheshkumar.vercel.app) |
+| 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
+
+---
 
 ### 🌱 Learning
 - React.js, Tailwind CSS, DSA (Coding Ninjas), MongoDB, Onshape 3D
@@ -45,12 +58,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwadheshKumar00&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwadheshKumar00&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awadhesh8994&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awadhesh8994&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AwadheshKumar00&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=awadhesh8994&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -58,7 +71,5 @@
 ### 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AwadheshKumar00&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=awadhesh8994&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
-
-  
