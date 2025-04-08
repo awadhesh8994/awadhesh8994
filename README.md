@@ -19,7 +19,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app](https://awadheshkumar.vercel.app) |
+| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app]((https://awadhesh-online.vercel.app/)) |
 | 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🌐 Connect With Me
 
-- 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadheshkumar.vercel.app)  
+- 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadheshkumar00)  
 - 📫 **Email:** awadhesh.dev@gmail.com  
 
