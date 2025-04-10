@@ -10,8 +10,7 @@
 ### 🔭 Currently Working On
 - 📘 **Second-Hand Book Marketplace** – Book swapping, AI pricing, Maps-based search
 - 📊 **CGPA Calculator** – GPA prediction, result graphs, export as PDF
-- 🌐 **Personal Portfolio Website** – Showcasing my skills, projects, and resume
-- 🔗 **URL Shortener Web App** – Create and manage short links with click tracking
+
 
 ---
 
