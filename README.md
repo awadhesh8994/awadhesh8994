@@ -18,7 +18,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🌐 **Portfolio Website** | My personal website built with Next.js, Tailwind CSS, and deployed on Vercel | [awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/) |
+| 🌐 **Portfolio Website** | My personal website built with React.js and deployed on Vercel | [awadheshkumar.vercel.app](https://awadhesh-io.onrender.com/) |
 | 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
 | 🧾 **QR Code Generator** | Generate custom QR codes with a sleek UI, built using React.js and Tailwind CSS | [qrcode-generatorr.vercel.app](https://qrcode-generatorr.vercel.app) |
 
@@ -36,7 +36,7 @@
 
 ### 🌐 Connect With Me
 
-- 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadhesh-online.vercel.app/)  
+- 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadhesh-io.onrender.com/)  
 - 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadhesh-kumar-615088265/)
 - [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/awadhesh8994)
   
