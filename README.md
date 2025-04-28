@@ -9,7 +9,6 @@
 
 ### 🔭 Currently Working On
 - 📘 **Second-Hand Book Marketplace** – Book swapping, AI pricing, Maps-based search
-- 📊 **CGPA Calculator** – GPA prediction, result graphs, export as PDF
 
 
 ---
