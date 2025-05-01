@@ -17,7 +17,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🌐 **Portfolio Website** | My personal website built with React.js and deployed on Vercel | [awadheshkumar.vercel.app](https://awadhesh-io.onrender.com/) |
+| 🌐 **Portfolio Website** | My personal website built with React.js and deployed on Vercel | [Awadhesh Kumar](https://awadhesh-io.onrender.com/) |
 | 🔗 **URL Shortener App** | A simple full-stack URL shortener using Express.js and MongoDB, deployed on Vercel | [url-shortener-awadhesh.vercel.app](https://url-shortener-awadhesh.vercel.app) |
 | 🧾 **QR Code Generator** | Generate custom QR codes with a sleek UI, built using React.js and Tailwind CSS | [qrcode-generatorr.vercel.app](https://qrcode-generatorr.vercel.app) |
 
