@@ -25,7 +25,7 @@
 ---
 
 ### 🌱 Learning
-- React.js, Tailwind CSS, DSA (Coding Ninjas), MongoDB, Onshape 3D
+- React.js, Tailwind CSS, DSA (Coding Ninjas), MongoDB
 
 ### 🧠 About Me
 - 🎓 Pursuing B.Tech in CSE @ Goel Institute of Tech & Management, Lucknow
@@ -35,7 +35,7 @@
 
 ### 🌐 Connect With Me
 
-- 🔗 **Portfolio:** [https://awadheshkumar.vercel.app](https://awadhesh-io.onrender.com/)  
+- 🔗 **Portfolio:** [https://awadheshkumar.io.onrender](https://awadhesh-io.onrender.com/)  
 - 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadhesh-kumar-615088265/)
 - [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/awadhesh8994)
   
