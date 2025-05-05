@@ -51,6 +51,9 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
