@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Full-Stack Developer | 👨‍🎓 B.Tech CSE </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=440&lines=Building+cool+projects+with+MERN+Stack;Tech+that+helps+students+learn+better;Coding+%3D+Future+Ready!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=480&lines=Crafting+next-gen+apps+with+MERN+Stack;Empowering+education+through+tech;Turning+ideas+into+impactful+code!" alt="Typing SVG" />
 </p>
+
 
 ---
 
