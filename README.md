@@ -39,7 +39,7 @@
 
 - 🔗 **Portfolio:** [https://awadheshkumar.io.onrender](https://awadhesh-io.onrender.com/)  
 - 💼 **LinkedIn:** [linkedin.com/in/awadheshkumar00](https://www.linkedin.com/in/awadhesh-kumar-615088265/)
-- [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/awadhesh8994)
+- [![X (Twitter)] (https://x.com/awadhesh8994)
   
 - 📫 **Email:** awadhesh23th@gmail.com 
 
