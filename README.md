@@ -46,7 +46,7 @@ const awadhesh = {
         institution: "Goel Institute of Tech & Management",
         status: "Currently Pursuing 🎓"
     },
-    code: ["JavaScript", "Java", "Python", "HTML/CSS"],
+    code: ["JavaScript", "Python", "HTML/CSS"],
     technologies: {
         frontEnd: {
             js: ["React.js"],
