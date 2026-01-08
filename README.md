@@ -86,7 +86,7 @@ const awadhesh: Developer = {
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,Docker,vercel" />
 </p>
 
 ### 📚 Learning Journey
