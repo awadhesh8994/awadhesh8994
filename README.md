@@ -53,8 +53,7 @@ const awadhesh: Developer = {
     year: "2023 - 2027",
     status: "🎓 Currently Pursuing"
   },
-  languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-  currentlyLearning: ["Advanced DSA", "System Design", "Cloud Architecture"],
+  languages: ["JavaScript", "Python", "C", "HTML", "CSS"],
   hobbies: ["💻 Coding", "📚 Reading Tech Blogs", "🎮 Gaming", "🎵 Music"],
   funFact: "I debug with console.log() and I'm proud of it! 😄",
   motto: "Code • Learn • Iterate • Repeat 🔄"
