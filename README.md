@@ -1,242 +1,318 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Awadhesh%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Tomorrow's%20Solutions&descSize=18&descAlignY=55"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   CINEMATIC HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- Dynamic Typing Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a0533,100:0d1a2e&height=280&section=header&text=Awadhesh%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Engineer%20%E2%80%A2%20Builder%20of%20Things&descSize=17&descAlignY=62&stroke=7c5cfc&strokeWidth=2"/>
+
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Awadhesh+Kumar;%F0%9F%92%BB+Full-Stack+Developer+%7C+CS+Student;%F0%9F%9A%80+Turning+Ideas+into+Reality;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);+%2F%2F+I%27m+Awadhesh;const+stack+%3D+%5B%22React%22%2C+%22Node%22%2C+%22MongoDB%22%5D%3B;git+commit+-m+%22always+be+shipping+%F0%9F%9A%80%22;%2F%2F+turning+caffeine+%E2%98%95+into+code+since+2023" alt="Typing SVG" />
 </a>
 
-<!-- Sleek Social Badges -->
-<p align="center">
-  <a href="https://awadhesh-io.onrender.com/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://www.linkedin.com/in/awadhesh-kumar-615088265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://x.com/awadhesh8994">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a"/>
-  </a>
+<br/>
+
+<!-- ─── SOCIAL BADGES ─── -->
+<p>
+  <a href="https://awadhesh-io.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/◈%20Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=00FFD1&labelColor=0d0d1a&color=00FFD1"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/awadhesh-kumar-615088265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a&color=0A66C2"/>
+  </a>&nbsp;
+  <a href="https://x.com/awadhesh8994" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0d0d1a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d0d1a&color=ffffff"/>
+  </a>&nbsp;
   <a href="mailto:awadhesh23th@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a&color=EA4335"/>
+  </a>&nbsp;
+  <a href="https://www.buymeacoffee.com/awadhesh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0d0d1a?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00&labelColor=0d0d1a&color=FFDD00"/>
   </a>
 </p>
 
-<!-- Animated Stats Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awadhesh8994&label=Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/awadhesh8994?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20For-Opportunities-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
+<!-- ─── STAT PILLS ─── -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=awadhesh8994&label=PROFILE+VIEWS&color=00FFD1&style=flat-square&abbreviated=true"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/awadhesh8994?label=FOLLOWERS&style=flat-square&color=7c5cfc&labelColor=0d0d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00FFD1?style=flat-square&labelColor=0d0d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED%20IN-Lucknow%2C%20IN-fc5c9c?style=flat-square&labelColor=0d0d1a"/>
 </p>
 
 </div>
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- About Me Section with Code Style -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> About Me
+---
 
-<div align="center">
+## ◈ `whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
-const awadhesh: Developer = {
-  pronouns: "He" | "Him",
-  location: "📍 Lucknow, Uttar Pradesh, India",
+/**
+ * @author   Awadhesh Kumar
+ * @version  2026.1.0
+ * @license  MIT
+ */
+
+const developer = {
+  name     : "Awadhesh Kumar",
+  alias    : "awadhesh8994",
+  location : "📍 Lucknow, UP, India",
+  
   education: {
-    degree: "B.Tech in Computer Science & Engineering",
-    institution: "Goel Institute of Tech & Management",
-    year: "2023 - 2027",
-    status: "🎓 Currently Pursuing"
+    degree : "B.Tech — CSE",
+    school : "Goel Institute of Tech & Management",
+    batch  : "2023 → 2027",
   },
-  languages: ["JavaScript", "Python", "C", "HTML", "CSS"],
-  hobbies: ["💻 Coding", "📚 Reading Tech Blogs", "🎮 Gaming", "🎵 Music"],
-  funFact: "I debug with console.log() and I'm proud of it! 😄",
-  motto: "Code • Learn • Iterate • Repeat 🔄"
+
+  stack: {
+    frontend : ["React", "HTML5", "CSS3", "Tailwind", "JS"],
+    backend  : ["Node.js", "Express", "REST APIs"],
+    database : ["MongoDB", "Mongoose"],
+    tools    : ["Git", "VSCode", "Postman", "Vercel"],
+    learning : ["DSA", "System Design", "Cloud"],
+  },
+
+  currentFocus : "🔨 Building full-stack apps",
+  openTo       : ["Internships", "Collabs", "Open Source"],
+  funFact      : "I debug with console.log() 😄",
+  motto        : "Ship it. Iterate. Repeat. 🔄",
 };
+
+export default developer;
 ```
 
-</div>
+</td>
+<td width="45%" align="center" valign="middle">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" style="border-radius:12px"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎓_CS_Student-4CAF50?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/💻_MERN_Dev-7c5cfc?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/🚀_Open_Source-00FFD1?style=for-the-badge&labelColor=0d0d1a&color=0d9c7c"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Tech Stack with Modern Layout -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Technology Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## ◈ Tech Arsenal
 
 <div align="center">
 
-### 💎 Frontend Mastery
+### ▸ Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-### ⚡ Backend Expertise
+### ▸ Backend & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms
+### ▸ Dev Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,Render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
 </p>
 
-### 📚 Learning Journey
+### ▸ Currently Leveling Up
+
 <p>
-  <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/System_Design-00D9FF?style=for-the-badge&logo=systemd&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-FFD700?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d0d1a?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d1a&color=FFA116"/>
+&nbsp;
+<img src="https://img.shields.io/badge/System_Design-0d0d1a?style=for-the-badge&logo=blueprint&logoColor=00FFD1&labelColor=0d0d1a&color=00FFD1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cloud_Computing-0d0d1a?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0d0d1a&color=FF9900"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d0d1a&color=3178C6"/>
 </p>
 
 </div>
 
 ---
 
-<!-- GitHub Analytics Dashboard -->
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## ◈ GitHub Analytics
 
 <div align="center">
 
-<!-- Main Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=awadhesh8994&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=awadhesh8994&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=awadhesh8994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00FFD1&icon_color=7c5cfc&text_color=c9d1d9&ring_color=7c5cfc&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=awadhesh8994&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00FFD1&fire=fc5c9c&currStreakLabel=00FFD1&sideLabels=7c7cff&dates=7a78a8" alt="Streak"/>
 
-<!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=awadhesh8994&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" />
+<br/>
 
-<!-- Language Stats & Productive Time -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadhesh8994&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=awadhesh8994&theme=radical&utcOffset=5.5" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=awadhesh8994&custom_title=◈+Contribution+Timeline&bg_color=0d0d1a&color=00FFD1&line=7c5cfc&point=fc5c9c&area=true&hide_border=true&area_color=1a0533&radius=8" alt="Activity Graph"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadhesh8994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00FFD1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=awadhesh8994&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
 ---
 
-<!-- Trophy Showcase -->
-## 🏆 Achievement Showcase
+## ◈ Achievement Vault
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awadhesh8994&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awadhesh8994&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 </div>
 
 ---
 
-<!-- Quote Section -->
-## 💭 Words of Wisdom
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## ◈ Words I Live By
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
+
+> ### *"The best way to predict the future is to invent it."*
+> **— Alan Kay**
+
+<br/>
+
+| 💡 Principle | 🔧 Practice |
+|:---|:---|
+| Write code for humans first, machines second | Clean, readable, documented code |
+| Ship early, iterate often | MVP → feedback → improve |
+| Every expert was once a beginner | Daily learning habit |
+| Build in public, learn in public | Open source & GitHub streaks |
+
 </div>
 
 ---
 
-<!-- Contribution Snake -->
-## 🐍 Contribution Graph
+## ◈ Contribution Serpent 🐍
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awadhesh8994/awadhesh8994/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awadhesh8994/awadhesh8994/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awadhesh8994/awadhesh8994/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/awadhesh8994/awadhesh8994/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-<!-- Connect Section with Modern Cards -->
-## 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## ◈ Let's Build Something Together
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-### *I'm always open to collaborating on interesting projects and innovative ideas!*
+### *Always open to interesting ideas, collaborations & opportunities*
+
+<br/>
 
 <table>
 <tr>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-  <br><br>
-  <strong>💼 Internships</strong>
-  <br>
-  <sub>Seeking hands-on experience</sub>
+<td align="center" width="22%">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" />
+  <br/><br/>
+  <b>💼 Internships</b>
+  <br/>
+  <sub>Seeking hands-on exp</sub>
 </td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80">
-  <br><br>
-  <strong>🚀 Projects</strong>
-  <br>
-  <sub>Open to collaborations</sub>
+<td align="center" width="22%">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70" />
+  <br/><br/>
+  <b>🚀 Projects</b>
+  <br/>
+  <sub>Open to collabs</sub>
 </td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80">
-  <br><br>
-  <strong>🌐 Open Source</strong>
-  <br>
-  <sub>Contributing to community</sub>
+<td align="center" width="22%">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="70" />
+  <br/><br/>
+  <b>🌐 Open Source</b>
+  <br/>
+  <sub>Contributing & growing</sub>
 </td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
-  <br><br>
-  <strong>💡 Innovation</strong>
-  <br>
+<td align="center" width="22%">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70" />
+  <br/><br/>
+  <b>💡 Innovation</b>
+  <br/>
   <sub>Building the future</sub>
 </td>
 </tr>
 </table>
 
-### 📫 Reach Out
+<br/>
 
-<a href="https://awadhesh-io.onrender.com/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+<a href="https://awadhesh-io.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/◈%20Portfolio-Visit%20Website-00FFD1?style=for-the-badge&logoColor=white&labelColor=0d0d1a"/>
 </a>
-<a href="https://www.linkedin.com/in/awadhesh-kumar-615088265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+&nbsp;
+<a href="https://www.linkedin.com/in/awadhesh-kumar-615088265/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a"/>
 </a>
+&nbsp;
 <a href="mailto:awadhesh23th@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
 </a>
 
 </div>
 
 ---
 
-<!-- Support Section -->
-## ☕ Support My Journey
+## ◈ Support the Journey ☕
 
 <div align="center">
 
-**If you find my work valuable, consider supporting me!**
+*If my work or repos added any value to yours — a star ⭐ means the world!*
 
-<a href="https://www.buymeacoffee.com/awadhesh">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1a1a" />
+<a href="https://www.buymeacoffee.com/awadhesh" target="_blank">
+  <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=1a1400"/>
 </a>
-
-**Or simply star ⭐ my repositories to show your appreciation!**
 
 </div>
 
 ---
 
-<!-- Footer with Wave -->
+<!-- FOOTER WAVE -->
 <div align="center">
 
-### 💫 *"First, solve the problem. Then, write the code."* 💫
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0533,100:0d1a2e&height=140&section=footer&animation=fadeIn&fontColor=ffffff"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+**◈ Crafted with 💙 & `console.log()` by [Awadhesh Kumar](https://awadhesh-io.onrender.com/)**
 
-**Crafted with 💙 by Awadhesh Kumar**
+<sub>📍 Lucknow, Uttar Pradesh, India &nbsp;|&nbsp; B.Tech CSE @ GITM &nbsp;|&nbsp; Batch 2023–2027</sub>
 
-<img src="https://visitcount.itsvg.in/api?id=awadhesh8994&label=Profile%20Visitors&color=00D9FF&icon=5&pretty=true" />
+<br/>
 
-*Last Updated: January 2026*
+<img src="https://visitcount.itsvg.in/api?id=awadhesh8994&label=Visitors&color=00FFD1&icon=5&pretty=true" />
+
+<br/>
+
+<sub><i>Last Updated: March 2026 &nbsp;•&nbsp; Open to opportunities 🚀</i></sub>
 
 </div>
