@@ -305,7 +305,7 @@ export default developer;
 
 **◈ Crafted with 💙 & `console.log()` by [Awadhesh Kumar](https://awadhesh-io.onrender.com/)**
 
-<sub>📍 Lucknow, Uttar Pradesh, India &nbsp;|&nbsp; B.Tech CSE @ GITM &nbsp;|&nbsp; Batch 2023–2027</sub>
+<sub>📍 Lucknow, Uttar Pradesh, India &nbsp;|&nbsp; B.Tech CSE @ GITM &nbsp;|&nbsp; Batch 2022–2026</sub>
 
 <br/>
 
